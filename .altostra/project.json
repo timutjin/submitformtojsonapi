@@ -1,0 +1,21 @@
+{
+  "id": "submitformtojsonapi-q410pmx",
+  "name": "submitformtojsonapi",
+  "created": "2022-03-17T05:27:41.261Z",
+  "description": "",
+  "blueprints": [
+    {
+      "version": "2019-10-24",
+      "connections": {},
+      "resources": {},
+      "metadata": {
+        "designer": {
+          "resourcePositions": {}
+        }
+      },
+      "id": "submitformtojsonapi-po00p67",
+      "name": "submitformtojsonapi"
+    }
+  ],
+  "type": "altostra"
+}
